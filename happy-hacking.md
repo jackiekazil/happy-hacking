@@ -18,9 +18,9 @@ However, even more importantly, we learned from each other.  At a basic level, w
 
 The Federal Government needs to encourage this mode of work. How is what we were doing different than the typical stereotypical Government setting?
 There were munchies, couches, free caffeine, and cats.
-We were intentionally working together even when our purposes were not the same.
-We weren’t wearing neckties or shoes.
-We had a “whatever it takes” attitude.  We were willing to try anything.
-We had no expectations.
-We had no project plans.
-We had no silos.
+* We were intentionally working together even when our purposes were not the same.
+* We weren’t wearing neckties or shoes.
+* We had a “whatever it takes” attitude.  We were willing to try anything.
+* We had no expectations.
+* We had no project plans.
+* We had no silos.
